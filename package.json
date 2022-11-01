@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/helpscout/seed-sample-project#readme",
   "devDependencies": {
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-sass": "3.1.0",
     "mkdirp": "0.5.1",
     "node-sass": "^4.5.3"
